@@ -43,7 +43,3 @@ Start by downloading the project and run "LSTM_DC_Models.ipynb" file in ipython-
 * __nltk:__ The Natural Language Toolkit (NLTK) is a Python package for natural language processing.
     * pip install nltk
     * conda install -c anaconda nltk
-
-
-## Authors
-•       Manish Vishwakarma - Complete work
